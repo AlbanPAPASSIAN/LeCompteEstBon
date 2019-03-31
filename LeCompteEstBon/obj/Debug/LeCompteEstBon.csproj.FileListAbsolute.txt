@@ -1,0 +1,7 @@
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.exe.config
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.exe
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.pdb
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.csprojAssemblyReference.cache
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.csproj.CoreCompileInputs.cache
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.exe
+c:\users\alban\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.pdb
