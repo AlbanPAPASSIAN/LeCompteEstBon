@@ -12,3 +12,10 @@ C:\Users\Alban PAPASSIAN\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\Le
 C:\Users\Alban PAPASSIAN\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.csproj.CoreCompileInputs.cache
 C:\Users\Alban PAPASSIAN\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.exe
 C:\Users\Alban PAPASSIAN\source\repos\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.pdb
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.exe.config
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.exe
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\bin\Debug\LeCompteEstBon.pdb
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.csprojAssemblyReference.cache
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.csproj.CoreCompileInputs.cache
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.exe
+E:\Xampp\htdocs\GitHub\LeCompteEstBon\LeCompteEstBon\obj\Debug\LeCompteEstBon.pdb
